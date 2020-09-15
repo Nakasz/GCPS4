@@ -1,2 +1,3 @@
-# GCPS4
-Google Cloud Platform Season 4 15 quest untuk tier 2 
+# GCP Season 4 Qwiklabs
+**Google Cloud Platform Season 4** 
+labs guide for completing #juaragcp challenge
